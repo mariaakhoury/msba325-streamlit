@@ -2,7 +2,7 @@
 
 MSBA 325 - Interactive Visualizations with Streamlit
 
-**Live app:** <paste your Streamlit Community Cloud link here>
+**Live app:** https://msba325-app-jhehwocxh2agtsqxmy8tyy.streamlit.app/
 
 ## What this is
 
