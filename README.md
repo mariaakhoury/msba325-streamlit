@@ -2,7 +2,7 @@
 
 MSBA 325 - Interactive Visualizations with Streamlit
 
-**Live app:** https://msba325-app-jhehwocxh2agtsqxmy8tyy.streamlit.app/
+**Live app:** https://msba325-lebanon-fdi.streamlit.app/
 
 ## What this is
 
